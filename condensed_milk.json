@@ -1,0 +1,42 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Mithai Mate Condensed Milk",
+    "quantity": "200 g",
+    "discountedPrice": 66,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/07210515-22d8-4dba-9cb4-e7905232d255.jpg?ts=1708588998"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Nestle Milkmaid Mini Condensed Milk",
+    "quantity": "210 g",
+    "discountedPrice": 89,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/f20fec75-2f93-4992-8a56-f044bc5052f9.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Khoa",
+    "quantity": "200 g",
+    "discountedPrice": 95,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/53bde67e-4fc9-4b39-b843-51fe8b960470.jpg?ts=1727703159"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Nestle Milkmaid Sweetened Condensed Milk",
+    "quantity": "380 g",
+    "discountedPrice": 141,
+    "originalPrice": 149,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/2d48ef3c-4323-40ec-8f90-a84add8382bb.jpg?ts=1708953276"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Mithai Mate Condensed Milk",
+    "quantity": "400 g",
+    "discountedPrice": 126,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/10492a.jpg?ts=1690814419"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "iD Idli & Dosa Batter - 1 kg",
+    "quantity": "1 kg",
+    "discountedPrice": 108,
+    "originalPrice": 110,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/17772a.jpg?ts=1690805616"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "iD Idli & Dosa Batter - 500 g",
+    "quantity": "500 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/04897836-b327-4e5e-a887-274aebfacd69.jpg?ts=1723375479"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Slurrp Farm Spinach Dosa Mix",
+    "quantity": "150 g",
+    "discountedPrice": 109,
+    "originalPrice": 119,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/443386a.jpg?ts=1739964954"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Slurrp Farm Beetroot Dosa Mix",
+    "quantity": "150 g",
+    "discountedPrice": 91,
+    "originalPrice": 119,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9e6f2fa0-f172-44a0-9766-fc1a539a78e6.jpg?ts=1730009438"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Timios Spinach Millet Dosa Mix Ready to Cook - Pack of 2",
+    "quantity": "2 x 150 g",
+    "discountedPrice": 126,
+    "originalPrice": 190,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1375513a-959f-4bc0-8633-aad3038d64e3.jpg?ts=1740738444"
+  }
+]

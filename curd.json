@@ -1,0 +1,146 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Masti Curd",
+    "quantity": "200 g",
+    "discountedPrice": 23,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/73bcc2db-0799-4014-ab75-029bfcdb8375.jpg?ts=1726473603"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Masti Cup Curd",
+    "quantity": "400 g",
+    "discountedPrice": 45,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/2da2fafc-e165-4248-8c59-caef5b646893.jpg?ts=1726473612"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Masti Curd",
+    "quantity": "1 kg",
+    "discountedPrice": 75,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/c2b22cd4-b144-4266-901a-ff4ae82aa912.jpg?ts=1726473621"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Sumul Low Calorie Curd",
+    "quantity": "1 kg",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/07aea400-6525-444a-aead-532fb301bb9b.jpg?ts=1718880480"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "epigamia Strawberry Flavoured Yogurt",
+    "quantity": "75 g",
+    "discountedPrice": 35,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/4e03fce8-9853-4368-b5f7-9a2761b875fb.jpg?ts=1726473667"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "epigamia Blueberry Flavoured Greek Yogurt",
+    "quantity": "85 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/e53a1de9-af17-46fb-a548-3b04e11246e9.jpg?ts=1720441546"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Sumul Pro-Biotic Curd Cup",
+    "quantity": "200 g",
+    "discountedPrice": 25,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/56ee5ddc-beb3-4280-9e75-428bb55aa45a.jpg?ts=1718880487"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Elaichi Shrikhand",
+    "quantity": "100 g",
+    "discountedPrice": 28,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/033289df-4e28-498d-ab39-146115bfe28a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "epigamia Strawberry Flavoured Greek Yogurt",
+    "quantity": "85 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/98708a.jpg?ts=1672641263"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "epigamia Alphonso Mango Flavoured Greek Yogurt",
+    "quantity": "85 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0cdb6f27-4829-4ed2-93fb-2a60d9bbe29e.jpg?ts=1709550741"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "epigamia Alphonso Mango Flavoured Yogurt",
+    "quantity": "75 g",
+    "discountedPrice": 35,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/57872bd2-d770-488f-9194-2fc5a5a36836.jpg?ts=1726473656"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Elaichi Shrikhand",
+    "quantity": "500 g",
+    "discountedPrice": 115,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/16d06f90-3b20-400a-aaa6-922bcdf10e21.jpg?ts=1706182142"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Kesar Shrikhand",
+    "quantity": "500 g",
+    "discountedPrice": 130,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/7392daa0-094a-44f3-b283-ecf229760c29.jpg?ts=1706182142"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Badam Pista Shrikhand",
+    "quantity": "500 g",
+    "discountedPrice": 130,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/b3067872-6c07-4822-aace-db9b89c5a980.jpg?ts=1708588998"
+  },
+  {
+    "deliveryTime": "",
+    "title": "epigamia Natural Greek Yogurt",
+    "quantity": "85 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/98706a.jpg?ts=1672641263"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Amul Mango Shrikhand",
+    "quantity": "100 g",
+    "discountedPrice": 28,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3fe89788-9967-4d55-9b5b-e3c1264642b7.jpg?ts=1738923621"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Amul Mango Shrikhand",
+    "quantity": "500 g",
+    "discountedPrice": 115,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/63fcc5b5-f44a-4b15-a798-8a3412eb22fb.jpg?ts=1706182143"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Amul Real Mango Amrakhand",
+    "quantity": "200 g",
+    "discountedPrice": 52,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/dfd4534a-404d-47a3-9b76-693f4ab14bb1.jpg?ts=1708603961"
+  }
+]

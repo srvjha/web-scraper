@@ -1,0 +1,82 @@
+[
+  {
+    "deliveryTime": "30 MINS\nAd",
+    "title": "MTR Roasted Vermicelli",
+    "quantity": "850 g",
+    "discountedPrice": 118,
+    "originalPrice": 135,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/81183576-15b3-4f25-add6-da2de86a7f45.jpg?ts=1705653744"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Bambino Premium Regular Vermicelli",
+    "quantity": "850 g",
+    "discountedPrice": 87,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/427119a.jpg?ts=1688444208"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "MTR (Seviyan) Regular Vermicelli",
+    "quantity": "850 g",
+    "discountedPrice": 79,
+    "originalPrice": 95,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/15404a.jpg?ts=1706779361"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Bambino Roasted Vermicelli",
+    "quantity": "500 g",
+    "discountedPrice": 69,
+    "originalPrice": 70,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/63659a.jpg?ts=1688627220"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Bambino Roasted Roasted Vermicelli",
+    "quantity": "850 g",
+    "discountedPrice": 114,
+    "originalPrice": 117,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/427120a.jpg?ts=1688444208"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Chheda's Nylon Sev Bhujia",
+    "quantity": "170 g",
+    "discountedPrice": 55,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/372141a.jpg?ts=1687755237"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Real Thai Rice Vermicelli",
+    "quantity": "375 g",
+    "discountedPrice": 240,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/12037a.jpg?ts=1689328439"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Garden Nylon Sev Bhujia",
+    "quantity": "140 g",
+    "discountedPrice": 50,
+    "originalPrice": 55,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/55ae2fcc-5b94-49b3-8fc5-107c40feaafd.jpg?ts=1708588725"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Bambino Thin & Roasted Roasted Vermicelli",
+    "quantity": "450 g",
+    "discountedPrice": 100,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/437778a.jpg?ts=1705299821"
+  },
+  {
+    "deliveryTime": "",
+    "title": "MTR Rice Regular Vermicelli",
+    "quantity": "400 g",
+    "discountedPrice": 55,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ce3a4a18-53c5-4504-a449-a2fa289295e0.jpg?ts=1728290601"
+  }
+]

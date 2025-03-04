@@ -1,0 +1,42 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Fresh Malai Paneer",
+    "quantity": "200 g",
+    "discountedPrice": 88,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/f793c3fd-dc65-49ce-bc39-a5fa7c3b4421.jpg?ts=1726473630"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Fresh Paneer",
+    "quantity": "100 g",
+    "discountedPrice": 45,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/43eed186-3674-4da8-bb72-beeb87216210.jpg?ts=1708591124"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Gowardhan Classic Block Paneer",
+    "quantity": "200 g",
+    "discountedPrice": 80,
+    "originalPrice": 90,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/123007a.jpg?ts=1688973208"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Sumul Paneer",
+    "quantity": "200 g",
+    "discountedPrice": 88,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/25fd5a24-4cee-4cdb-b589-cc0cebdb3743.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS\nFrozen",
+    "title": "Amul Malai Paneer",
+    "quantity": "200 g",
+    "discountedPrice": 95,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/64304b98-bbd0-4b80-8f89-7fbb95b6f155.jpg?ts=1707312317"
+  }
+]

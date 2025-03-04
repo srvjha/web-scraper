@@ -1,0 +1,74 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Salted Butter",
+    "quantity": "100 g",
+    "discountedPrice": 60,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/0be0d49a-4dae-408a-8786-afae1dd05cb1.jpg?ts=1707312314"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Salted Butter (200 g)",
+    "quantity": "200 g",
+    "discountedPrice": 122,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/63628a.jpg?ts=1690806392"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Salted Butter (Chiplets)",
+    "quantity": "10 units",
+    "discountedPrice": 70,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/a2ee36fd-a19d-4867-b1dd-7a4b1bfb4dd8.jpg?ts=1708590985"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Garlic & Herbs Butter",
+    "quantity": "100 g",
+    "discountedPrice": 65,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/55504a.jpg?ts=1690814377"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul White Unsalted Butter",
+    "quantity": "100 g",
+    "discountedPrice": 62,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/cae60609-78b2-405c-82c5-dc1d348834a7.jpg?ts=1708588031"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Unsalted Butter",
+    "quantity": "100 g",
+    "discountedPrice": 62,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/245871a.jpg?ts=1687949311"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Lite Milk Fat Spread",
+    "quantity": "500 g",
+    "discountedPrice": 232,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/427610a.jpg?ts=1688444209"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Pintola Unsweetened Creamy Almond Butter",
+    "quantity": "200 g",
+    "discountedPrice": 393,
+    "originalPrice": 425,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/16a0dd99-86f7-46c7-9cb6-1480bcd248f0.jpg?ts=1713266973"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Nutralite DoodhShakti Probiotic Butter (500 g)",
+    "quantity": "500 g",
+    "discountedPrice": 267,
+    "originalPrice": 300,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/447848a.jpg?ts=1698230911"
+  }
+]

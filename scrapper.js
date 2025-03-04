@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import fs from 'fs'
 
 (async () => {
-  const url = "https://blinkit.com/cn/paneer-tofu/cid/14/923"; 
+  const url = "https://blinkit.com/cn/batter/cid/14/1425"; 
 
  
   const browser = await puppeteer.launch({
@@ -76,22 +76,25 @@ const wait = (ms) => {
 
     productElements.forEach((el) => {
      
-      let details = el.innerText;
+      //let details = el.innerText;
       let deliveryTime = el.querySelector(".LikqD").innerText || "";
-      let title = el.querySelector(".hxWnoO").innerText || "";
+      let title = el.querySelector(".jTdToW").innerText.split("\n")[0];
+      let quantity = el.querySelector(".jTdToW").innerText.split("\n")[1];
+      let discountedPrice = Number(el.querySelector(".ljxcbQ").innerText.split("\n")[0].slice(1)) || 0
+      let originalPrice = Number(el.querySelector(".ljxcbQ").innerText.split("\n")[1].slice(1)) || 0
       let imageElement = el.querySelector("img"); 
       let imageUrl = imageElement ? imageElement.src : "";
 
-      if (details.length >= 0) {
-        productList.push(details,imageUrl);
-      }
+     
+        productList.push({deliveryTime,title,quantity,discountedPrice,originalPrice,imageUrl});
+      
     });
      console.log(productList.length);
     return productList;
   });
 
   console.log("Extracted Products:", products);
-   fs.writeFileSync('panner.json', JSON.stringify(products, null, 2));
+   fs.writeFileSync('batter.json', JSON.stringify(products, null, 2));
 
  
   await browser.close();
@@ -111,7 +114,7 @@ async function autoScroll(page) {
           clearInterval(timer);
           resolve();
         }
-      }, 3000); 
+      }, 2000); 
     });
   });
 }

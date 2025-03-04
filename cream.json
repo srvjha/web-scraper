@@ -1,0 +1,42 @@
+[
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Fresh Cream",
+    "quantity": "250 ml",
+    "discountedPrice": 68,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/740347d8-80b9-40eb-8de4-72b283acb7bc.jpg?ts=1706182141"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "D'lecta Dairy Fresh Cream - 25% Fat",
+    "quantity": "200 ml",
+    "discountedPrice": 56,
+    "originalPrice": 65,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/196988ea-8979-4576-a9f8-8000c6343065.jpg?ts=1729233435"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Nestle Everyday Dairy Whitener",
+    "quantity": "1 kg",
+    "discountedPrice": 610,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/10de5485-d27e-4d83-a4ec-6c7f917d71f4.jpg?ts=1712237244"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amul Whipping Cream",
+    "quantity": "250 ml",
+    "discountedPrice": 85,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/539282a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Amulya Dairy Whitener",
+    "quantity": "500 g",
+    "discountedPrice": 235,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/05a66f64-927e-4b28-a2c3-f59aff5a92e1.jpg?ts=1708592516"
+  }
+]

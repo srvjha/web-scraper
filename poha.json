@@ -1,0 +1,538 @@
+[
+  {
+    "deliveryTime": "30 MINS\nAd",
+    "title": "True Elements Quinoa Gluten-Free, High Protein & 100% Wholegrain Superfood",
+    "quantity": "500 g",
+    "discountedPrice": 171,
+    "originalPrice": 350,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/b828c8f1-9e8f-417f-88b3-37e3c6c1b343.jpg?ts=1706168227"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Fortune Thick Poha",
+    "quantity": "500 g",
+    "discountedPrice": 51,
+    "originalPrice": 60,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b50fd815-87b6-4f6f-9d28-55ab75d36aae.jpg?ts=1732189579"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Tata Sampann High In Fibre Thick Poha (Jada Poha)",
+    "quantity": "500 g",
+    "discountedPrice": 52,
+    "originalPrice": 58,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/2b30b87e-cb59-4feb-bec6-43846a0deed5.jpg?ts=1731402119"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Big Sabudana/Badadana/Sago (Mota Sabudana)",
+    "quantity": "500 g",
+    "discountedPrice": 42,
+    "originalPrice": 89,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527974a.jpg?ts=1705325824"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Fiber Rich Thick Poha (Jada Poha)",
+    "quantity": "500 g",
+    "discountedPrice": 40,
+    "originalPrice": 68,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527588a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Wheat Daliya/Lapsi (Dalia)",
+    "quantity": "500 g",
+    "discountedPrice": 33,
+    "originalPrice": 69,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527586a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Vijay Indori Thick Poha (Jada Poha)",
+    "quantity": "500 g",
+    "discountedPrice": 34,
+    "originalPrice": 50,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/4b4ea712-0825-45ce-bca8-092a312dc4fe.jpg?ts=1723622447"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Small Sabudana/Motidana/Sago (Nana Sabudana)",
+    "quantity": "500 g",
+    "discountedPrice": 46,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527589a.jpg?ts=1705325824"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Laxmipati Small Sabudana - Super Quality (Nana Sabudana)",
+    "quantity": "500 g",
+    "discountedPrice": 65,
+    "originalPrice": 80,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/369609a.jpg?ts=1690815221"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Popcorn Kernels//Makki Dana (Popcorn Beej)",
+    "quantity": "200 g",
+    "discountedPrice": 43,
+    "originalPrice": 49,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531205a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Laxmipati Thick Poha (Jada Poha)",
+    "quantity": "1 kg",
+    "discountedPrice": 73,
+    "originalPrice": 85,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/369600a.jpg?ts=1690814461"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Tata Sampann Thin Poha (Patla Pauva)",
+    "quantity": "500 g",
+    "discountedPrice": 62,
+    "originalPrice": 64,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/29741b4d-18a5-4c52-ae0b-7b36bf691fa9.jpg?ts=1736136790"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Vijay Premium Quality Poha (Pauva)",
+    "quantity": "1 kg",
+    "discountedPrice": 73,
+    "originalPrice": 100,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/522071a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Vijay Makka Poha Maize Flakes",
+    "quantity": "500 g",
+    "discountedPrice": 37,
+    "originalPrice": 50,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/388669a0-0490-4f52-99dc-2983f30dc015.jpg?ts=1738227596"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Roasted Daliya (Dalia)",
+    "quantity": "500 g",
+    "discountedPrice": 41,
+    "originalPrice": 60,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528763a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Grocery Thick Poha / Avalakki (Jada Poha)",
+    "quantity": "500 g",
+    "discountedPrice": 37,
+    "originalPrice": 68,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528791a.jpg?ts=1698939488"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Nylon Small Sabudana (Nana Sabudana)",
+    "quantity": "200 g",
+    "discountedPrice": 25,
+    "originalPrice": 33,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531207a.jpg?ts=1698769630"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Makki Atta (Maize Flour) (Makai No Lott)",
+    "quantity": "500 g",
+    "discountedPrice": 35,
+    "originalPrice": 60,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/94c4dc06-50bd-43e3-84b7-ba75e9e727ce.jpg?ts=1713777411"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Pemium Small Sabudana (Nana Sabudana)",
+    "quantity": "500 g",
+    "discountedPrice": 55,
+    "originalPrice": 109,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/540630a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Laxmipati Rice Poha (Pauva)",
+    "quantity": "500 g",
+    "discountedPrice": 40,
+    "originalPrice": 45,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/369599a.jpg?ts=1688469726"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Popcorn Kernels/Makki Dana (Popcorn Beej)",
+    "quantity": "500 g",
+    "discountedPrice": 102,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528771a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Laxmipati Moreya Samak/Barnyard Millet (Samaka/ Barnyard Bajari)",
+    "quantity": "500 g",
+    "discountedPrice": 89,
+    "originalPrice": 90,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/369604a.jpg?ts=1688469726"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Farmley Natural Quinoa",
+    "quantity": "500 g",
+    "discountedPrice": 135,
+    "originalPrice": 300,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/831acaae-f3e8-439e-a08f-6ada602ba2d2.jpg?ts=1739449842"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Quinoa Seeds",
+    "quantity": "500 g",
+    "discountedPrice": 111,
+    "originalPrice": 200,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3e69f976-8fb9-4364-824f-b53cf2d01d5a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Rajgira/Amaranth Seeds (Rajagara)",
+    "quantity": "500 g",
+    "discountedPrice": 77,
+    "originalPrice": 160,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529762a.jpg?ts=1698769629"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Thin Poha (Patla Pauva)",
+    "quantity": "500 g",
+    "discountedPrice": 46,
+    "originalPrice": 75,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531204a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Barley (Without Skin) (Jau)",
+    "quantity": "200 g",
+    "discountedPrice": 22,
+    "originalPrice": 60,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/32211d8a-ca09-487b-9736-409ea5662788.jpg?ts=1712554451"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Samak/Barnyard Millet/Oodhalu (Samaka/ Barnyard Bajari)",
+    "quantity": "500 g",
+    "discountedPrice": 79,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531203a.jpg?ts=1701761161"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Vijay Nylon Poha",
+    "quantity": "500 g",
+    "discountedPrice": 49,
+    "originalPrice": 55,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f4fe2805-0316-4012-9c37-5f700be36638.jpg?ts=1730965210"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Quinoa - 500 g + 7 in 1 Super Nut and Seeds Mix Combo",
+    "quantity": "500 g + 250 g",
+    "discountedPrice": 364,
+    "originalPrice": 645,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/cfcb9f23-46e7-4e9c-b743-839ad0c24026.jpg?ts=1738217090"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Whole Ragi/Finger Millet (Ragi)",
+    "quantity": "1 kg",
+    "discountedPrice": 85,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529756a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Fiber Rich Thick Poha + Premium Raw Peanuts Combo",
+    "quantity": "500 g + 200 g",
+    "discountedPrice": 84,
+    "originalPrice": 133,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/21debed0-beaa-4fbb-b135-22fa65bb52b5.jpg?ts=1717138795"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Quinoa 100% Wholegrain, High Protein & Gluten-Free Superfood",
+    "quantity": "1 kg",
+    "discountedPrice": 229,
+    "originalPrice": 650,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ce895c2d-2ac3-4a45-9e9c-259252b78fcd.jpg?ts=1705425036"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Sihor Sharbati Wheat (Sharbati Ghauu)",
+    "quantity": "5 kg",
+    "discountedPrice": 281,
+    "originalPrice": 350,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/534172a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Kutki/Little Millet/Samai (Kutki)",
+    "quantity": "500 g",
+    "discountedPrice": 82,
+    "originalPrice": 95,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531206a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Whole Wheat Grains (Ghau Dana)",
+    "quantity": "1 kg",
+    "discountedPrice": 65,
+    "originalPrice": 80,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/545fe041-4e07-4162-a5bc-317d477535d6.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Premium Wheat Daliya/Lapsi (Dalia)",
+    "quantity": "500 g",
+    "discountedPrice": 48,
+    "originalPrice": 59,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/533072a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Premium Whole Barley (Jau)",
+    "quantity": "500 g",
+    "discountedPrice": 33,
+    "originalPrice": 59,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/533075a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Farm Premium Fiber Rich Thick Poha + Premium Raw Peanuts Combo",
+    "quantity": "500 g + 500 g",
+    "discountedPrice": 121,
+    "originalPrice": 203,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/large_images/jpeg/4ec35d0c-bebe-4f33-9d6d-340efe52c130.jpg?ts=1710350833"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Kangi/Foxtail Millet (Kangi/Foxtail Bajari)",
+    "quantity": "500 g",
+    "discountedPrice": 80,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529757a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Premium Sharbati Tukdi Wheat (Ghau)",
+    "quantity": "5 kg",
+    "discountedPrice": 256,
+    "originalPrice": 399,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/eddec9df-6f8f-4e3c-955c-27a2ea44b152.jpg?ts=1719376047"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Kodra/Kodo Millet/Araka (Kodra/Kodo Bajari)",
+    "quantity": "500 g",
+    "discountedPrice": 82,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529758a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Premium Whole Jowar/Sorghum Millets (Juwar)",
+    "quantity": "500 g",
+    "discountedPrice": 38,
+    "originalPrice": 59,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/533074a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Yoga Bar 100% Wholegrain Quinoa (Gluten-free)",
+    "quantity": "1 kg",
+    "discountedPrice": 302,
+    "originalPrice": 499,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/068c6d43-edc4-42e7-99a0-abfb10a675f0.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Mango Premium Whole Ragi/Finger Millet (Ragi)",
+    "quantity": "500 g",
+    "discountedPrice": 46,
+    "originalPrice": 59,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/8697e5b4-da2b-449c-8056-5c5c04ba5610.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Whole Jowar/Sorghum Millets (Juwar)",
+    "quantity": "500 g",
+    "discountedPrice": 114,
+    "originalPrice": 130,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ba6822c4-69d7-4c8f-8228-990a86fd7618.jpg?ts=1723636765"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Whole Bajra/Pearl Millets (Bajra)",
+    "quantity": "500 g",
+    "discountedPrice": 105,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/db127497-bc2c-48f9-9ca3-d51b5e93e27a.jpg?ts=1718883365"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Whole Bajra/Pearl Millets (Bajra)",
+    "quantity": "1 kg",
+    "discountedPrice": 180,
+    "originalPrice": 225,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/533282a.jpg?ts=1705152088"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Chena/Proso Millet/Baragu (Chena (Proso Millet))",
+    "quantity": "500 g",
+    "discountedPrice": 75,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529760a.jpg"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Whole Farm Premium Fiber Rich Thick Poha + Whole Farm Grocery Raw Peanuts Combo",
+    "quantity": "500 g + 500 g",
+    "discountedPrice": 119,
+    "originalPrice": 228,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/c31fb8e9-9ea3-47b3-9569-4ab5f1757edf.jpg?ts=1716957027"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Organic Samak/Barnyard Millet",
+    "quantity": "500 g",
+    "discountedPrice": 129,
+    "originalPrice": 140,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/d8d656b1-93d3-4e28-83d2-187a34f8ace8.jpg?ts=1723635132"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Organic Tattva Organic Red Poha, 500 g",
+    "quantity": "500 g",
+    "discountedPrice": 78,
+    "originalPrice": 99,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/86976a.jpg?ts=1700647488"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Organic Tattva Organic White Poha",
+    "quantity": "500 g",
+    "discountedPrice": 69,
+    "originalPrice": 89,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/552efb9f-fdbd-489b-9d24-755cca441463.jpg?ts=1713776996"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "Organic Tattva Wheat Organic Daliya",
+    "quantity": "500 g",
+    "discountedPrice": 56,
+    "originalPrice": 70,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/d23e3bf4-146a-4e03-bd06-da103586fe54.jpg?ts=1713633747"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Natural Organic White Poha",
+    "quantity": "500 g",
+    "discountedPrice": 72,
+    "originalPrice": 89,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ee8cb776-8a4f-40b0-bf6e-edcafee5c802.jpg?ts=1723635151"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Organic Foxtail Millet",
+    "quantity": "500 g",
+    "discountedPrice": 79,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/baede31e-57f3-4f42-bda2-fa7e67c66bb7.jpg?ts=1723795784"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Organic Kodo Millet",
+    "quantity": "500 g",
+    "discountedPrice": 100,
+    "originalPrice": 120,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ea3a2f18-d748-4bd8-9054-028caacc332a.jpg?ts=1723795783"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Elements Steel Cut Oats (100% Wholegrain, High Fibre) + Quinoa 100% Wholegrain, High Protein & Gluten-Free Superfood Combo",
+    "quantity": "500 g + 1 kg",
+    "discountedPrice": 374,
+    "originalPrice": 850,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/full_screen/pro_526700.jpg?ts=1710343621"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Organic Wheat Daliya",
+    "quantity": "500 g",
+    "discountedPrice": 63,
+    "originalPrice": 75,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/947342d4-215b-4d12-a1f6-55a21f7a8db0.jpg?ts=1723635130"
+  },
+  {
+    "deliveryTime": "30 MINS",
+    "title": "True Story Organic Little Millet",
+    "quantity": "500 g",
+    "discountedPrice": 111,
+    "originalPrice": 140,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/2eee3606-d6e2-49c6-8764-e6cd466f1edb.jpg?ts=1723795782"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Whole Farm Premium Jowar/Sorghum Millets (Juwar)",
+    "quantity": "200 g",
+    "discountedPrice": 19,
+    "originalPrice": 22,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531222a.jpg"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Mango Premium Samak/Barnyard Millet/Moraiya (Samaka/ Barnyard Bajari)",
+    "quantity": "500 g",
+    "discountedPrice": 79,
+    "originalPrice": 99,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/9a4ea0f8-aa4a-4f71-adfc-6d400e627963.jpg?ts=1708588345"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Farmley Natural Quinoa",
+    "quantity": "1 kg",
+    "discountedPrice": 249,
+    "originalPrice": 650,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ffe1af6f-c680-4731-8535-80ad16b93e64.jpg"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Mango Premium Whole Bajra/Pearl Millets (Bajra)",
+    "quantity": "500 g",
+    "discountedPrice": 41,
+    "originalPrice": 59,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/533073a.jpg"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Satyam Jada Thick Poha (Jada Poha)",
+    "quantity": "500 g",
+    "discountedPrice": 53,
+    "originalPrice": 0,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/fcc0f089-4f08-47a9-8ee7-44e8cd2aafd8.jpg?ts=1708590990"
+  },
+  {
+    "deliveryTime": "",
+    "title": "Gaia Diet Crunchy Muesli Millet (Bajri)",
+    "quantity": "1 kg",
+    "discountedPrice": 525,
+    "originalPrice": 699,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/521622a.jpg?ts=1690829451"
+  },
+  {
+    "deliveryTime": "",
+    "title": "24 Mantra Organic Wheat Daliya - Pack of 2",
+    "quantity": "2 x 500 g",
+    "discountedPrice": 99,
+    "originalPrice": 110,
+    "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/cc55e411-ddf1-4d88-89ec-e54f41ea3005.jpg?ts=1716876706"
+  }
+]
